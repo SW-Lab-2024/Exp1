@@ -8,3 +8,8 @@ h1 {
     font-weight: bold;
     direction: rtl;
 }
+footer {
+    text-align: center;
+    font-weight: bold;
+    color: red;
+}

@@ -1,7 +1,7 @@
-def show_greating_message():
-    print("Welcome! glad to see you again!")
-    print("Hi let's create dummy file")
-    print("Thiss is saftware honework")
+def show_greeting_message():
+    print ("Hi let's create dummy file")
+    print("This is software homework")
     print("Hello world!")
-
-show_greating_message()
+    
+    
+show_greeting_message()

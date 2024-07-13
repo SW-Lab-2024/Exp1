@@ -70,3 +70,14 @@ Contributors: Amirmahdi, Helia and Farhad
 #
 
 </div>
+
+
+## منابع
+- https://sapegin.me/blog/rebels-guide-to-pull-requests-commits-code-reviews/#:~:text=It%27s%20easier%20and%20safer%20to,completely%20if%20something%20goes%20wrong.
+- https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch
+- https://medium.com/@meghatyagi003/git-merge-vs-rebase-vs-cherry-pick-acfa46acb170
+- https://stackoverflow.com/questions/57265785/whats-the-difference-between-git-switch-and-git-checkout-branch
+- https://www.geeksforgeeks.org/git-index/
+- https://git-scm.com/docs/git-stash
+- https://levelup.gitconnected.com/git-working-with-local-repository-vs-working-with-remote-repository-b2ec00df9a2e
+- https://stackoverflow.com/questions/4964099/what-is-a-git-snapshot
